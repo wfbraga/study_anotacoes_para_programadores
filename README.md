@@ -12,7 +12,6 @@ Este livro Ruby® Notes for Professionals foi compilado do Stack Overflow, o con
 - _[Capitulo 4: Variaveis, Escopo e Visibilidade]_
 - _[Capitulo 5: Variaveis de Ambiente]_
 - _[Capitulo 6: Constantes]_
-- _[Capítulo 1: Iniciando em Ruby]_
 
 ## _Creditos_
 
