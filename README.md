@@ -6,12 +6,13 @@ Isto é  uma tradução em forma de repositório do livro [Ruby® Notes for Prof
 Este livro Ruby® Notes for Professionals foi compilado do Stack Overflow, o conteúdo é escrito pelas pessoas bonitas do Stack Overflow, e eu apenas o trazudo como forma de contribuir a comunidade Ruby e aprender. O conteúdo de texto é lançado sob Creative Commons BY-SA. Os creditos ao final.
 
 ### Capitulos
-Capítulo 1: Começando com a linguagem Ruby (a ser adicionado em breve)
+- _[Capítulo 1: Iniciando em Ruby]_
 - _[Capítulo 2: Casting (conversão de tipo)]_
 - _[Capitulo 3: Operadores e suas precedencias]_ (a ser adicionado em breve)
 - _[Capitulo 4: Variaveis, Escopo e Visibilidade]_
 - _[Capitulo 5: Variaveis de Ambiente]_
 - _[Capitulo 6: Constantes]_
+- _[Capítulo 1: Iniciando em Ruby]_
 
 ## _Creditos_
 
@@ -206,10 +207,10 @@ mais alterações podem ser enviadas para web@petercv.com (em ingles) para que n
 - Zaz Chapters 18 and 47
 
    
-   [Ruby® Notes for Professionals book]: <https://books.goalkicker.com/RubyBook/>
+   [Ruby® Notes for Professionals book]: <https://books.goalkicker.com/RubyBook/>   
+   [Capítulo 1: Iniciando em Ruby]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_1.rb>
    [Capítulo 2: Casting (conversão de tipo)]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_2.rb>
    [Capitulo 3: Operadores e suas precedencias]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_3.rb>
    [Capitulo 4: Variaveis, Escopo e Visibilidade]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_4.rb>
    [Capitulo 5: Variaveis de Ambiente]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_5.rb>
    [Capitulo 6: Constantes]: <https://github.com/wfbraga/anotacoes_para_programadores/blob/master/chapter_6.rb>
-  
